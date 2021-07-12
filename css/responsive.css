@@ -1,0 +1,14 @@
+/* @media(max-width: 1000px){
+    .home-section .home-text, 
+    .home-section .home-img{
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+} */
+@media screen and (max-width: 1000px) {
+    .home-section .home-text, 
+    .home-section .home-img{
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+}
